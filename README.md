@@ -1,4 +1,4 @@
-# TSSCCA Project README
+# TSSCCA Project
 
 ## Overview
 
